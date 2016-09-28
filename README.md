@@ -48,7 +48,6 @@
   - `git log --pretty=oneline`
 - Log details only for changes files
   - `git log --name-status`
-- 
 
 ### Command for branch
 
